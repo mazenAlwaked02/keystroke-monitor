@@ -1,0 +1,25 @@
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\KeystrokeMonitor.exe.config
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\KeystrokeMonitor.exe
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\KeystrokeMonitor.pdb
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\EntityFramework.dll
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\MetroFramework.Design.dll
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\MetroFramework.dll
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\EntityFramework.xml
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.frmHomePage.resources
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.Migrations.FirstMigration.resources
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.Properties.Resources.resources
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.csproj.GenerateResource.cache
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.csproj.CoreCompileInputs.cache
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.csproj.CopyComplete
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.exe
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.pdb
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.csproj.AssemblyReference.cache
+C:\Users\AbuSaloum\source\repos\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.Migrations.Add_IsSended_On_BlackListWords.resources
+C:\Users\ASUS\Desktop\Graduation Project\KeystrokeMonitor\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Graduation Project\KeystrokeMonitor\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Graduation Project\KeystrokeMonitor\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.exe
+C:\Users\ASUS\Desktop\Graduation Project\KeystrokeMonitor\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.pdb
+C:\Users\ASUS\Desktop\Graduation Project\KeystrokeMonitor\KeystrokeMonitor\KeystrokeMonitor\obj\Debug\KeystrokeMonitor.exe.config
